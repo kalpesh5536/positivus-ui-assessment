@@ -29,7 +29,6 @@ A modern, responsive landing page for **Positivus** — a digital marketing agen
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) (v18+ recommended)
-- If not able to see, check drive link:- https://drive.google.com/file/d/1XYkh1SbZdU6saSTGktNKfT6Vwx9_BUtu/view?usp=sharing
 - npm or yarn
 
 ## Installation
@@ -47,6 +46,7 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173/) in your browser.
+- If not able to see, check drive link:- https://drive.google.com/file/d/1XYkh1SbZdU6saSTGktNKfT6Vwx9_BUtu/view?usp=sharing
 
 ## Available Scripts
 
