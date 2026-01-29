@@ -47,6 +47,7 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173/) in your browser.
 - If not able to see, check drive link:- https://drive.google.com/file/d/1XYkh1SbZdU6saSTGktNKfT6Vwx9_BUtu/view?usp=sharing
+- Live project URL - positivus-ui-assessment.vercel.app
 
 ## Available Scripts
 
